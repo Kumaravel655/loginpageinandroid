@@ -33,6 +33,9 @@ Developed by: Kumaravel V
 Registeration Number : 212220230027
 */
 ```
+<br></br>
+<br></br>
+
 ## activity main.xml
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -133,6 +136,8 @@ Registeration Number : 212220230027
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+<br></br>
+
 ## activity main.java
 
 ```
