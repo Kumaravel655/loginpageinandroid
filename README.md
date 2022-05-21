@@ -25,11 +25,19 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Accept username and password from the end user and the display information give in MainActivity file.
 
 Step 7: Save and run the application.
+<br></br>
+<br></br>
+
+<br></br>
+<br></br>
+<br></br>
+
+
 
 ## PROGRAM:
 ```
 /*
-Developed by: Kumaravel V<br>
+Developed by: Kumaravel V
 Registeration Number : 212220230027
 */
 ```
