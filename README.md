@@ -25,14 +25,6 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Accept username and password from the end user and the display information give in MainActivity file.
 
 Step 7: Save and run the application.
-<br></br>
-<br></br>
-
-<br></br>
-<br></br>
-<br></br>
-
-
 
 ## PROGRAM:
 ```
@@ -41,9 +33,7 @@ Developed by: Kumaravel V
 Registeration Number : 212220230027
 */
 ```
-
 ## activity main.xml
-
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -142,7 +132,6 @@ Registeration Number : 212220230027
         app:layout_constraintVertical_bias="0.362" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-
 ```
 ## activity main.java
 
@@ -196,18 +185,10 @@ Submit Button
         });
     }
 }
-
-
-
-
 ```
-
-
 ## output:
 ![O1](https://user-images.githubusercontent.com/75235334/169634574-bad4087c-5e67-4e3d-988f-2705714d3965.png)
 ![o2](https://user-images.githubusercontent.com/75235334/169634541-f8ed8309-84e2-4df9-9ae2-f9076043c9f7.png)
-
-
 ## RESULT
 Thus a Simple Android Application develop a program to accept username and password from the end user using Text View and Edit Text and display personal information of the student using Android Studio is developed and executed successfully.
 
