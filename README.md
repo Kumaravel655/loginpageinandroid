@@ -1,6 +1,7 @@
  
-# Ex.No:5 Develop a program to accept username and password from the end user using Text View and Edit Text and display personal information of the student.
-
+### Ex.No:05 
+### DATE: 
+# <p align="center"> Develop a program to accept username and password from the end user using Text View and Edit Text and display personal information of the student.</p>
 
 ## AIM:
 
@@ -26,6 +27,9 @@ Step 6: Accept username and password from the end user and the display informati
 
 Step 7: Save and run the application.
 
+<br></br>
+<br></br>
+
 ## PROGRAM:
 ```
 /*
@@ -33,8 +37,7 @@ Developed by: Kumaravel V
 Registeration Number : 212220230027
 */
 ```
-<br></br>
-<br></br>
+
 
 ## activity main.xml
 ```xml
@@ -136,7 +139,7 @@ Registeration Number : 212220230027
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-<br></br>
+
 
 ## activity main.java
 
@@ -191,7 +194,25 @@ Submit Button
     }
 }
 ```
-## output:
+<br></br>
+<br></br>
+
+<br></br>
+<br></br>
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+<br></br>
+<br></br>
+
+<br></br>
+<br></br>
+
+
+## Output:
 ![O1](https://user-images.githubusercontent.com/75235334/169634574-bad4087c-5e67-4e3d-988f-2705714d3965.png)
 ![o2](https://user-images.githubusercontent.com/75235334/169634541-f8ed8309-84e2-4df9-9ae2-f9076043c9f7.png)
 ## RESULT
